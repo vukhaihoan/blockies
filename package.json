@@ -1,5 +1,5 @@
 {
-  "name": "@download/blockies",
+  "name": "@vukhaihoan/blockies",
   "version": "1.0.3",
   "description": "A tiny library for generating blocky identicons.",
   "main": "dist/blockies.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/download13/blockies.git"
+    "url": "git+https://github.com/vukhaihoan/blockies.git"
   },
   "author": "Erin Dachtler, Alex Van de Sande",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/download13/blockies/issues"
+    "url": "https://github.com/vukhaihoan/blockies/issues"
   },
-  "homepage": "https://github.com/download13/blockies#readme",
+  "homepage": "https://github.com/vukhaihoan/blockies#readme",
   "devDependencies": {
     "babel-minify": "^0.4.3",
     "koa": "^2.5.2",
